@@ -1,3 +1,7 @@
+<p align="center">
+  <img style="width:8rem; height:auto" src="https://github.com/Shubham-p-patil/Shubham-p-patil/blob/main/assets/coder.gif"/>
+</p>
+
 <h1 align="center">Hi, I'm Shubham Patil<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
