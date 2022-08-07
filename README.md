@@ -6,11 +6,10 @@
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
  
--  **Learning :** Full-Stack Development:zap:	<img align="right" style="width:16rem; height:auto" src="https://github.com/Shubham-p-patil/Shubham-p-patil/blob/main/assets/geek.gif"/>
--  **Languages :** Python, JavaScript, Dart, C#, C++, C, Java 💻
--  **Hobbies :** Traveling :car: , Music :headphones:
--  **Fact :** It's never late to get started 🎯:heart:
+-  **Learning :** Full-Stack Development	<img align="right" style="width:16rem; height:auto" src="https://github.com/Shubham-p-patil/Shubham-p-patil/blob/main/assets/geek.gif"/>
+-  **Languages :** Python, JavaScript, Dart, C#, C++, C, Java 
 -  **Organisation :** Oregon State University
+-  **Hobbies :** Traveling , Music 
 -  📫 How to reach me: patilsh@oregonstate.edu
 
 ---
