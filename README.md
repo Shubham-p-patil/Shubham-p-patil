@@ -8,7 +8,7 @@
 <h2> About Me </h2>
  
 -  **Learning :** Full-Stack Development	<img align="right" style="width:15rem; height:auto" src="https://github.com/Shubham-p-patil/Shubham-p-patil/blob/main/assets/geek.gif"/>
--  **Languages :** Python, JavaScript, Dart, C#, C++, C, Java 
+-  **Languages :** Python, JavaScript, C#, C++, C, Java 
 -  **Organisation :** Oregon State University
 -  **Hobbies :** Traveling , Music 
 -  📫 How to reach me: patilsh@oregonstate.edu
