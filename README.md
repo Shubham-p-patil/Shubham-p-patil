@@ -87,7 +87,21 @@
   <img  src="https://github.com/Shubham-p-patil/Shubham-p-patil/blob/main/assets/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
+
+---
+
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+<!-- [![](https://github-readme-stats.vercel.app/api?username=Shubham-p-patil&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Shubham-p-patil) -->
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Shubham-p-patil&theme=material-palenight)](https://github.com/Shubham-p-patil)
+</div>
+
+---
+
 <p align="center">
   <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
     alt="example" />
 </p>
+
+---
