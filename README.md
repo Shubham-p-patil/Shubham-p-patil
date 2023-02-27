@@ -15,7 +15,7 @@
 
 ---
 
-<p align="center"><img src="https://github.com/Shubham-p-patil/Shubham-p-patil/blob/main/assets/developerAnimation.gif" alt="developer"/></p>
+<!-- <p align="center"><img src="https://github.com/Shubham-p-patil/Shubham-p-patil/blob/main/assets/developerAnimation.gif" alt="developer"/></p> -->
 
 
 # 💻 Tech Stack:
